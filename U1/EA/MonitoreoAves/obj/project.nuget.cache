@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZLTfQcTdkF+ZbE280u9PnzOZHLHXKxWIT2TtteESe4hptUoHjc77pR8Hjq44/lkhDOeKXbeX9+8ZCA21TfPeVA==",
+  "success": true,
+  "projectFilePath": "/home/oblivion/Desktop/college/DPRN1/U1/EA/MonitoreoAves/MonitoreoAves.csproj",
+  "expectedPackageFiles": [
+    "/home/oblivion/.nuget/packages/geolocation/1.2.1/geolocation.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

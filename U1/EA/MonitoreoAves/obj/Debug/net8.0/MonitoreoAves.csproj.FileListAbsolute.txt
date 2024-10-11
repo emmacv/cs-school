@@ -1,0 +1,17 @@
+/home/oblivion/Desktop/college/DPRN1/U1/EA/MonitoreoAves/obj/Debug/net8.0/MonitoreoAves.csproj.AssemblyReference.cache
+/home/oblivion/Desktop/college/DPRN1/U1/EA/MonitoreoAves/obj/Debug/net8.0/MonitoreoAves.GeneratedMSBuildEditorConfig.editorconfig
+/home/oblivion/Desktop/college/DPRN1/U1/EA/MonitoreoAves/obj/Debug/net8.0/MonitoreoAves.AssemblyInfoInputs.cache
+/home/oblivion/Desktop/college/DPRN1/U1/EA/MonitoreoAves/obj/Debug/net8.0/MonitoreoAves.AssemblyInfo.cs
+/home/oblivion/Desktop/college/DPRN1/U1/EA/MonitoreoAves/obj/Debug/net8.0/MonitoreoAves.csproj.CoreCompileInputs.cache
+/home/oblivion/Desktop/college/DPRN1/U1/EA/MonitoreoAves/bin/Debug/net8.0/MonitoreoAves
+/home/oblivion/Desktop/college/DPRN1/U1/EA/MonitoreoAves/bin/Debug/net8.0/MonitoreoAves.deps.json
+/home/oblivion/Desktop/college/DPRN1/U1/EA/MonitoreoAves/bin/Debug/net8.0/MonitoreoAves.runtimeconfig.json
+/home/oblivion/Desktop/college/DPRN1/U1/EA/MonitoreoAves/bin/Debug/net8.0/MonitoreoAves.dll
+/home/oblivion/Desktop/college/DPRN1/U1/EA/MonitoreoAves/bin/Debug/net8.0/MonitoreoAves.pdb
+/home/oblivion/Desktop/college/DPRN1/U1/EA/MonitoreoAves/bin/Debug/net8.0/Geolocation.dll
+/home/oblivion/Desktop/college/DPRN1/U1/EA/MonitoreoAves/obj/Debug/net8.0/MonitoreoAves.csproj.CopyComplete
+/home/oblivion/Desktop/college/DPRN1/U1/EA/MonitoreoAves/obj/Debug/net8.0/MonitoreoAves.dll
+/home/oblivion/Desktop/college/DPRN1/U1/EA/MonitoreoAves/obj/Debug/net8.0/refint/MonitoreoAves.dll
+/home/oblivion/Desktop/college/DPRN1/U1/EA/MonitoreoAves/obj/Debug/net8.0/MonitoreoAves.pdb
+/home/oblivion/Desktop/college/DPRN1/U1/EA/MonitoreoAves/obj/Debug/net8.0/MonitoreoAves.genruntimeconfig.cache
+/home/oblivion/Desktop/college/DPRN1/U1/EA/MonitoreoAves/obj/Debug/net8.0/ref/MonitoreoAves.dll

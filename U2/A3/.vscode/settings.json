@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "*.erd": "json",
+    "*.vuerd": "json",
+    "*.css": "css",
+    "css": "css",
+    "plyconfig.json": "jsonc"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MonitoreoAves/1.0.0": {
+        "dependencies": {
+          "Geolocation": "1.2.1"
+        },
+        "runtime": {
+          "MonitoreoAves.dll": {}
+        }
+      },
+      "Geolocation/1.2.1": {
+        "runtime": {
+          "lib/netstandard2.0/Geolocation.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MonitoreoAves/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Geolocation/1.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qvdjGKWydk4hKmyGvIExkpNhJ0qoAk88f+wTsuQ6Bdb6Zl2MJccmQRKF2DLtAuuGSkeF9N99BbO2eKk4F932Mw==",
+      "path": "geolocation/1.2.1",
+      "hashPath": "geolocation.1.2.1.nupkg.sha512"
+    }
+  }
+}
