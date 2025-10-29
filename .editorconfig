@@ -1,0 +1,11 @@
+# top-most EditorConfig file for this level
+root = true
+
+[*.cs]
+# C# files
+indent_style = space
+indent_size = 2
+insert_final_newline = true
+charset = utf-8
+end_of_line = lf
+csharp_new_line_before_open_brace = false
